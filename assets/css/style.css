@@ -1,0 +1,67 @@
+/* 
+    HTML Element Selectors
+*/
+h1 {
+    margin:auto;
+}
+
+/* 
+    Class Selectors
+*/
+.jumbotron {
+    width: 100%;
+}
+
+
+/* 
+    ID Selectors
+*/
+#title-container {
+    text-align: center;
+}
+
+#timer-container {
+    /* width: 100%; */
+    text-align: center;
+    padding: 0px auto;
+    font-size: 10vw;
+}
+
+#rightBtn {
+    text-align: right;
+}
+#midBtn {
+    text-align: center;
+}
+#leftBtn {
+    text-align: left;
+}
+
+
+/* 
+    Media Queries Selectors
+*/
+
+
+
+
+/*============================================================*/
+
+/* 
+    HTML Element Selectors
+*/
+
+
+/* 
+    Class Selectors
+*/
+
+
+/* 
+    ID Selectors
+*/
+
+
+/* 
+    Media Queries Selectors
+*/
