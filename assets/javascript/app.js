@@ -173,7 +173,7 @@ function nextQuestion(QA) {
         ansDiv.addClass("answer-div");
         ansDiv.attr("data", QA.ansArr[i]);
 
-        ansDiv.html("<h4>" + QA.ansArr[i] + "</h4>");
+        ansDiv.html("<img src='assets/images/youtubeLogo.png' alt='youtube logo' id='little-logo' style='height:36.5px; float:left'> <h4 style='display:table-cell;vertical-align:middle; margin-left: 10px; float: left'>&nbsp;" + QA.ansArr[i] + "</h4>");
 
         // correctAns = QA.answer;
 
